@@ -14,7 +14,7 @@
       {
         "source": "/api/**",
         "run": {
-          "serviceId": "hrmsmgtrf",
+          "serviceId": "rizvi-foms-api",
           "region": "asia-south1"
         }
       },
