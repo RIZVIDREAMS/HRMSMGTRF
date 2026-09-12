@@ -1,0 +1,8 @@
+backend/
+infra/
+scale/
+web/
+node_modules/
+*.docx
+SOURCE_Software_instruction.pdf
+LIVE_DASHBOARD_CONCEPT_PREVIEW.png

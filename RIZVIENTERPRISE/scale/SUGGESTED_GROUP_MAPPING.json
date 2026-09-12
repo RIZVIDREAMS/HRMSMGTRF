@@ -1,0 +1,296 @@
+{
+  "note_bn": "এটি একটি SUGGESTED/HEURISTIC ম্যাপিং — সোর্স PDF-এ প্রতিটি ৫৬৪ designation-এর জন্য পৃথক Department/Section নির্দিষ্ট করা নেই (এটি ২০২৬-০৮-২৮ audit-এই স্বীকার করা হয়েছে)। এই ফাইলটি শুধু ২২টি Designation Group-ভিত্তিক একটি যুক্তিসঙ্গত শুরুর পয়েন্ট দেয়, যা একজন অথরাইজড অ্যাডমিনের রিভিউ/অনুমোদন ছাড়া চূড়ান্ত ধরা উচিত না।",
+  "note_en": "This is a SUGGESTED/HEURISTIC mapping, not sourced line-by-line from the PDF. The source does not assign each of the 564 designations to a specific department/section (already disclosed in the 2026-08-28 audit). It groups designations by the PDF's own 22 'Designation Group' labels and proposes plausible department/section matches as a starting point for an authorized admin to review and approve.",
+  "mapping": {
+    "Executive & Corporate": {
+      "departments": [
+        "Corporate & Strategic Management"
+      ],
+      "sections": [
+        "Corporate Governance",
+        "Management Review"
+      ]
+    },
+    "Management & Officers": {
+      "departments": [
+        "Corporate & Strategic Management",
+        "System Administration"
+      ],
+      "sections": [
+        "System"
+      ]
+    },
+    "HR / Admin / Welfare / Compliance": {
+      "departments": [
+        "HRM – Full Human Resource Management",
+        "Welfare Management",
+        "Compliance Management",
+        "Administration Management"
+      ],
+      "sections": [
+        "Recruitment",
+        "Personnel",
+        "Employee Relations",
+        "Welfare",
+        "Grievance",
+        "Administration",
+        "Compliance",
+        "Labour Law"
+      ]
+    },
+    "Training & Performance": {
+      "departments": [
+        "Training & Competency Management",
+        "KPI & Performance Management – All Employees"
+      ],
+      "sections": [
+        "Training & Competency",
+        "Performance Management"
+      ]
+    },
+    "Marketing & Merchandising": {
+      "departments": [
+        "Buyer & Trading House Management",
+        "Marketing & Merchandising"
+      ],
+      "sections": [
+        "Marketing",
+        "Buyer & Trading House",
+        "Merchandising",
+        "Costing",
+        "Order Management",
+        "T&A Management"
+      ]
+    },
+    "Planning & IE": {
+      "departments": [
+        "Planning Management",
+        "IE Management"
+      ],
+      "sections": [
+        "Planning",
+        "Capacity Planning",
+        "Production Planning",
+        "Line Loading",
+        "IE",
+        "SMV",
+        "Work Study",
+        "Line Balancing",
+        "Productivity"
+      ]
+    },
+    "CAD / Product / Sample": {
+      "departments": [
+        "Fabric Management"
+      ],
+      "sections": [
+        "CAD",
+        "Pattern",
+        "Grading",
+        "Marker",
+        "Sample",
+        "Sample Approval",
+        "Product Development",
+        "Tech Pack",
+        "Design"
+      ]
+    },
+    "Procurement & Supplier": {
+      "departments": [
+        "Procurement Management"
+      ],
+      "sections": [
+        "Procurement",
+        "RFQ",
+        "Sourcing",
+        "Supplier Selection",
+        "Supplier Approval",
+        "Supplier Evaluation",
+        "Supplier Audit",
+        "Supplier Development",
+        "General Purchase"
+      ]
+    },
+    "Fabric / Knitting / Dyeing": {
+      "departments": [
+        "Fabric Management"
+      ],
+      "sections": [
+        "Fabric",
+        "Fabric Procurement",
+        "Fabric Store",
+        "Yarn",
+        "Knitting",
+        "Dyeing",
+        "Fabric Inspection"
+      ]
+    },
+    "Cutting": {
+      "departments": [
+        "Production Management"
+      ],
+      "sections": [
+        "Cutting",
+        "Cutting Quality",
+        "Fabric Relaxation",
+        "Spreading",
+        "Numbering",
+        "Bundling"
+      ]
+    },
+    "Sewing / Production": {
+      "departments": [
+        "Production Management"
+      ],
+      "sections": [
+        "Sewing",
+        "Sewing Quality",
+        "Sewing Input",
+        "Sewing Production",
+        "Hourly Production",
+        "WIP Control",
+        "Size Set"
+      ]
+    },
+    "Finishing & Packing": {
+      "departments": [
+        "Production Management"
+      ],
+      "sections": [
+        "Finishing",
+        "Finishing Quality",
+        "Ironing",
+        "Folding",
+        "Spot Removal"
+      ]
+    },
+    "Quality": {
+      "departments": [
+        "Quality Assurance / QC Management"
+      ],
+      "sections": [
+        "Quality",
+        "QA Audit",
+        "Quality Receive",
+        "Sewing Quality",
+        "Cutting Quality",
+        "Finishing Quality",
+        "Store Quality"
+      ]
+    },
+    "Lab / Testing / Calibration": {
+      "departments": [
+        "Quality Assurance / QC Management"
+      ],
+      "sections": [
+        "Quality"
+      ]
+    },
+    "Engineering / Maintenance / Utility": {
+      "departments": [
+        "Maintenance Management",
+        "Utility & Energy Management"
+      ],
+      "sections": [
+        "Electrical",
+        "Mechanical",
+        "Energy Monitoring",
+        "Utility Monitoring",
+        "Energy Efficiency"
+      ]
+    },
+    "HSE / Environment / Chemical / Fire": {
+      "departments": [
+        "HSE / Occupational Health & Safety",
+        "Environmental Management",
+        "Chemical Management"
+      ],
+      "sections": [
+        "HSE",
+        "Safety Inspection",
+        "PPE Management",
+        "Fire Safety",
+        "Emergency Response",
+        "Fire Drill",
+        "Environmental Aspect/Impact",
+        "Environmental Monitoring",
+        "ETP/STP",
+        "Chemical Inventory",
+        "SDS Management",
+        "Chemical Storage",
+        "Chemical Handling",
+        "Spill Response"
+      ]
+    },
+    "Medical": {
+      "departments": [
+        "Medical Management"
+      ],
+      "sections": [
+        "Medical Center",
+        "First Aid",
+        "Occupational Health",
+        "Childcare"
+      ]
+    },
+    "Store / Inventory / Logistics": {
+      "departments": [
+        "Inventory & Store Management"
+      ],
+      "sections": [
+        "Store",
+        "Store Quality",
+        "Stock Lot",
+        "Receive"
+      ]
+    },
+    "Accounts / Commercial": {
+      "departments": [
+        "Accounts & Finance Management",
+        "Commercial Management"
+      ],
+      "sections": [
+        "Accounts & Finance",
+        "Commercial"
+      ]
+    },
+    "IT / Security / MIS": {
+      "departments": [
+        "IT & Information Security Management"
+      ],
+      "sections": [
+        "System",
+        "Security"
+      ]
+    },
+    "Audit / Risk / IMS / Document": {
+      "departments": [
+        "Internal Audit Management",
+        "Risk Management",
+        "Integrated ISO Management System",
+        "Document & Record Management"
+      ],
+      "sections": [
+        "Audit",
+        "IMS / ISO Control",
+        "Document Control",
+        "Record Control",
+        "Internal Audit",
+        "External Audit",
+        "Buyer Audit",
+        "Risk Assessment",
+        "Risk Register",
+        "CAPA",
+        "Continual Improvement"
+      ]
+    },
+    "Support / Other": {
+      "departments": [
+        "Settings"
+      ],
+      "sections": [
+        "Others"
+      ]
+    }
+  }
+}

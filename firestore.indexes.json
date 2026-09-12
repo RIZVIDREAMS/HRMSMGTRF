@@ -1,0 +1,24 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "n8qyNJQs5Z6xCp3N0IXA",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Admin",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "login",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "__name__",
+          "order": "ASCENDING"
+        }
+      ],
+      "density": "SPARSE_ALL"
+    }
+  ],
+  "fieldOverrides": []
+}
