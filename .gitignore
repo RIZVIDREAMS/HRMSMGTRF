@@ -13,3 +13,7 @@ node_modules/
 .firebase/
 .env
 firebase-debug.log
+node_modules/
+.firebase/
+.env
+firebase-debug.log
